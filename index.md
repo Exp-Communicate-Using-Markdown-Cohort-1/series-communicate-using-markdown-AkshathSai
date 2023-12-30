@@ -6,3 +6,7 @@ KnifeStore knifeStore = new KnifeStore(knifeFactory);
 Knife budgetKnife = knifeStore.orderKnife(KnifeType.BUDGET_KNIFE);
 Knife chefsKnife = knifeStore.orderKnife(KnifeType.CHEFS_KNIFE);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
